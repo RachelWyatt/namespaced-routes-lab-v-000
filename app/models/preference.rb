@@ -1,0 +1,3 @@
+class Preferebce < ApplicationRecord
+
+end
