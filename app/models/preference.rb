@@ -1,3 +1,3 @@
-class Preferebce < ApplicationRecord
+class Preference < ActiveRecord::Base
 
 end
