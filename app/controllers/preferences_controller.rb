@@ -1,4 +1,4 @@
-class Admin::PreferencesController < ApplicationController
+class APreferencesController < ApplicationController
 
   def index
   end
