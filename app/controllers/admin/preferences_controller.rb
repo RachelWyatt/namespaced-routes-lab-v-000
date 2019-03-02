@@ -1,5 +1,5 @@
 class Admin::PreferencesController < ApplicationController
 
-  def index 
+  def index
   end
 end
